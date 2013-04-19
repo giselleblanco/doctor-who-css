@@ -30,6 +30,11 @@ body {
 	margin-bottom: 20px;
 	margin-left: 10px;
 }
+.navigation li a:hover {
+	background-color: #222940;
+	color: #F2F2F2;
+}
+
 .navigation li {
 	display: inline;
 }
