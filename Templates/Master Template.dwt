@@ -18,11 +18,13 @@
 			<li><a href="../Pages/video.html">Video</a></li>
 			<li></li>
 		</ul>
-		<h1> The Doctor Who Compendium </h1>
-		<div class="main">
-			<!-- TemplateBeginEditable name="content" -->
-			<p>content</p>
-			<!-- TemplateEndEditable -->
+		<div class="content">
+			<h1> The Doctor Who Compendium </h1>
+			<div class="main">
+				<!-- TemplateBeginEditable name="content" -->
+				<p>content</p>
+				<!-- TemplateEndEditable -->
+			</div>
 		</div>
 	</div>
 </body>
