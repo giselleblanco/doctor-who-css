@@ -17,8 +17,8 @@
 			<li><a href="#">Home</a></li>
 			<li><a href="#">The Doctors</a></li>
 			<li><a href="#">Video</a></li>
-			<li><a href="#">About Me</a></li>
-		</ul>
+			<li><a href="#">About Me</a></li></ul>
+		<!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable -->
 	</div>
 </body>
 </html>
