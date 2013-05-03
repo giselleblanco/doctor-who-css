@@ -15,7 +15,7 @@
 		<img src="../images/banner.jpg" width="950" height="150" alt="banner" />
 		<ul class="navigation">
 			<li><a href="../index.html">Home</a></li>
-			<li><a href="#">Video</a></li>
+			<li><a href="../Pages/video.html">Video</a></li>
 			<li></li>
 		</ul>
 		<h1> The Doctor Who Compendium </h1>
